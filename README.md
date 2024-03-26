@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tom
-- 👀 I'm interested in software and its integration with real life activities
-- 🌱 I’m currently learning C# and HTML/CSS
-- 📫 You can reach me through my GitHub email
-- 😄 Pronouns: he/him
+- 👋 Hey, I’m Tom.
+- 👀 I'm interested in software / AI and its integration with real life activities.
+- 🌱 I’m currently learning C# and HTML/CSS.
+- 📫 You can reach me through my GitHub email.
+- 😄 Pronouns: he/him.
