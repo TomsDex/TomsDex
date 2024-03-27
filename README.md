@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Tom.
 - 👀 I'm interested in software / AI and its integration with real life activities.
 - 🌱 I’m currently learning C# and HTML/CSS.
-- 📫 You can reach me through my GitHub email.
+- 📫 You can reach me at TomsDex@proton.me
 - 😄 Pronouns: he/him.
