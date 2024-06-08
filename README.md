@@ -1,6 +1,5 @@
-- 👋 Hey, I’m Tom.
-- 👀 I'm interested in software / AI and its integration with real life activities.
-- 🌱 I’m currently learning C#, including its extensions to other frameworks including MAUI/Blazor for cross-platform or web development.
-- 🦍 I'm intending to learn C++ or Python or similar.
-- 📫 You can reach me at TomsDex@proton.me
-- 😄 Pronouns: he/him.
+Hey, I’m Tom (he/him). I'm interested in software / AI and its integration with real-life activities. I'm the rare type of software engineer who spends time outside - bridging the gap between the real and virtual worlds is what interests me the most.
+
+I'm currently learning: C#, including MAUI and Blazor, and Java?
+
+I'm intending to learn (in rough order): Rust, Python, C++.
