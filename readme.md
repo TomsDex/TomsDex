@@ -7,3 +7,5 @@ The same bio as every other website;
   + European (digital) sovereignity
  
 I can be reached on BlueSky (I rarely post) or Discord (@TomsDex).
+
+Current project: [Tamar](https://github.com/TomsDex/Tamar)
